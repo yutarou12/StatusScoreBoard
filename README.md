@@ -1,0 +1,6 @@
+# ScoreStatusBoard
+EasyScoreboardAPIを使ったステータスプラグインです
+
+製作者 yutarou1241477
+
+EasyScoreboardAPIのダウンロードリンク→
