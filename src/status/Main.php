@@ -21,7 +21,10 @@ class Main extends PluginBase implements Listener{
 
 	public function onEnable(){ 
 		date_default_timezone_set('Asia/Tokyo');
-
+                
+                $this->getServer()->getPluginManager()->registerEvents($this,$this);
+                $this->getScheduler()->scheduleRepeatingTask(new Send($this), 5);
+		
 		$this->getLogger()->notice("StatusScoreBoardを読み込みました。by  yutarou1241477");
 		$this->api = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
 		if($this->api == null){
