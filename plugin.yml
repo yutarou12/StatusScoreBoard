@@ -1,0 +1,8 @@
+---
+name: StatusScoreBoard
+main: status\Main
+version: 8.1.0
+api:
+- 3.7.1
+author: yutarou1241477
+...
