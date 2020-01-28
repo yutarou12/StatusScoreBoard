@@ -39,8 +39,8 @@ class Main extends PluginBase implements Listener{
 		$this->getServer()->shutdown();
 		}else{
 		$this->getLogger()->info("EasyScoreboardAPIを確認しました。");
-		}
-    }
+                }
+        }
 }
 
 class Send extends Task{
@@ -90,7 +90,7 @@ class Send extends Task{
                         $api->setScore($player, "sidebar", "§e方角 : §fX:{$x}/Y:{$y}/Z:{$z}", 7, 7);
                         $api->setScore($player, "sidebar", "§e方位 : §f{$dire}", 8, 8);
                         $api->setScore($player, "sidebar", "§eワールド名 : §f{$worldn}", 9, 9);
-             }
+		}
 	}
-	}
+}	
 
