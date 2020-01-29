@@ -11,7 +11,6 @@ EasyScoreboardAPIの[ダウンロード](https://github.com/Saisana299/EasyScore
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
 本プラグイン制作者 yutarou1241477
