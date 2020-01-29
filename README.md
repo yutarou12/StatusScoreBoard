@@ -1,4 +1,4 @@
-ScoreStatusBoard
+StatusScoreBoard
 ==== 
 
 ## Description
