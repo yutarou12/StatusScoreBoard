@@ -5,6 +5,8 @@ ScoreStatusBoard
 
 EasyScoreboardAPIを使ったステータスプラグインです。
 
+EconomyAPI用です（Moneysystem用は[こちら](準備中)）
+
 ## Install
 
 EasyScoreboardAPIの[ダウンロード](https://github.com/Saisana299/EasyScoreboardAPI/releases/tag/v1.2.1)
