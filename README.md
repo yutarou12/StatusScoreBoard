@@ -7,7 +7,7 @@ EasyScoreboardAPIを使ったステータスプラグインです。
 
 EconomyAPI用です（Moneysystem用は[準備中]）
 
-## Install
+## Download
 
 EasyScoreboardAPIの[ダウンロード](https://github.com/Saisana299/EasyScoreboardAPI/releases/tag/v1.2.1)
 
