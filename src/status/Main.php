@@ -79,7 +79,7 @@ class Send extends Task{
 			break;
 			}
 			$api = EasyScoreboardAPI::getInstance();
-			$api->sendScoreBoard($player, "sidebar", "お好きな名前", false); 
+			$api->sendScoreBoard($player, "sidebar", "§fユーザーステータス", false); 
 			$api->setScore($player, "sidebar", "§a名前 §f: {$name}", 0 , 0);
 			$api->setScore($player, "sidebar", "§6現在時刻 §f: {$time}", 1 , 1);
                         $api->setScore($player, "sidebar", "§d所持金 §f: {$money}", 2 ,2);
