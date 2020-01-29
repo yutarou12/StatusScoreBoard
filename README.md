@@ -1,8 +1,18 @@
-# ScoreStatusBoard
-EasyScoreboardAPIを使ったステータスプラグインです
+ScoreStatusBoard
+==== 
 
-製作者 yutarou1241477
+## Description
 
+EasyScoreboardAPIを使ったステータスプラグインです。
+
+## Install
+
+EasyScoreboardAPIの[ダウンロード](https://github.com/Saisana299/EasyScoreboardAPI/releases/tag/v1.2.1)
+
+## Licence
+
+[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+
+## Author
+本プラグイン制作者 yutarou1241477
 EasyScoreboardAPI 製作者 Saisana299さん
-
-EasyScoreboardAPIのダウンロードリンク→https://github.com/Saisana299/EasyScoreboardAPI/releases/tag/v1.2.1
