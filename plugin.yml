@@ -1,7 +1,7 @@
 ---
 name: StatusScoreBoard
 main: status\Main
-version: 1.1.0
+version: 1.1.1
 api:
 - 3.7.1
 author: yutarou1241477
